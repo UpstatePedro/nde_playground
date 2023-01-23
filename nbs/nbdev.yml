@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ned"
+  site-url: "https://UpstatePedro.github.io/nde_playground"
+  description: "Exploration of Neural ODE, CDE, SDE architectures."
+  repo-branch: main
+  repo-url: "https://github.com/UpstatePedro/nde_playground"
